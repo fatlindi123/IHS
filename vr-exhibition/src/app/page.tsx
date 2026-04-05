@@ -7,7 +7,7 @@ const modules = [
   {
     title: 'VR Glasses',
     description: 'A clean presentation area prepared for the VR Glasses experience.',
-    href: '/user',
+    href: 'https://lab-vr.com/grupi2',
   },
   {
     title: 'Magic Mirror',
