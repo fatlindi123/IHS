@@ -1,0 +1,157 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="48" fill="#06101D"/>
+  <rect width="1200" height="900" rx="48" fill="url(#backgroundGlow)"/>
+
+  <circle cx="202" cy="164" r="168" fill="url(#leftGlow)" opacity="0.78"/>
+  <circle cx="1018" cy="206" r="186" fill="url(#rightGlow)" opacity="0.74"/>
+  <ellipse cx="602" cy="794" rx="320" ry="122" fill="url(#floorGlow)" opacity="0.46"/>
+
+  <g opacity="0.16">
+    <path d="M118 739C259 611 429 551 600 551C773 551 937 613 1081 739" stroke="#60A5FA" stroke-width="2"/>
+    <path d="M162 783C307 670 446 622 600 622C754 622 893 670 1038 783" stroke="#5EEAD4" stroke-width="2"/>
+  </g>
+
+  <rect x="86" y="82" width="248" height="54" rx="27" fill="#0C1B31" stroke="#23406C"/>
+  <circle cx="122" cy="109" r="8" fill="#22C55E"/>
+  <text x="145" y="116" fill="#D9EEFF" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="1.2">CCO VR EXHIBITION</text>
+
+  <g filter="url(#panelShadow)">
+    <rect x="273" y="154" width="654" height="574" rx="44" fill="#0A1528" stroke="url(#panelStroke)" stroke-width="2"/>
+    <rect x="302" y="184" width="596" height="516" rx="34" fill="url(#panelInner)"/>
+    <rect x="332" y="214" width="536" height="456" rx="28" fill="#091221" stroke="#173055"/>
+  </g>
+
+  <g opacity="0.56">
+    <path d="M349 257H850" stroke="url(#topLine)" stroke-width="2"/>
+    <path d="M349 627H850" stroke="url(#bottomLine)" stroke-width="2"/>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <path d="M452 344C479 289 533 255 594 255H607C668 255 722 289 749 344L788 422C801 449 781 480 751 480H448C418 480 398 449 411 422L452 344Z" fill="url(#headsetShell)"/>
+    <path d="M495 349C514 321 547 305 584 305H617C654 305 687 321 706 349L723 374C735 390 723 413 703 413H498C478 413 466 390 478 374L495 349Z" fill="#09111F"/>
+    <rect x="524" y="338" width="152" height="43" rx="21.5" fill="url(#visorLight)"/>
+    <path d="M437 374C398 374 366 342 366 303C366 264 398 232 437 232H448C461 232 471 242 471 255V351C471 364 461 374 448 374H437Z" fill="#10203A"/>
+    <path d="M763 374C802 374 834 342 834 303C834 264 802 232 763 232H752C739 232 729 242 729 255V351C729 364 739 374 752 374H763Z" fill="#10203A"/>
+    <path d="M548 480H652L694 620C700 639 686 658 666 658H534C514 658 500 639 506 620L548 480Z" fill="url(#standGradient)"/>
+    <rect x="570" y="623" width="60" height="84" rx="24" fill="#1B3257"/>
+    <rect x="475" y="688" width="250" height="34" rx="17" fill="#12223F"/>
+  </g>
+
+  <g>
+    <rect x="117" y="287" width="188" height="240" rx="34" fill="#0B1A2E" stroke="#1D4ED8" stroke-width="2"/>
+    <circle cx="211" cy="379" r="52" fill="#102544"/>
+    <rect x="194" y="341" width="34" height="77" rx="17" fill="#7DD3FC"/>
+    <rect x="173" y="362" width="77" height="34" rx="17" fill="#7DD3FC"/>
+    <text x="148" y="467" fill="#E6F4FF" font-family="Arial, sans-serif" font-size="32" font-weight="700">Health</text>
+    <text x="147" y="500" fill="#93C5FD" font-family="Arial, sans-serif" font-size="18">medical objects</text>
+  </g>
+
+  <g>
+    <rect x="896" y="287" width="188" height="240" rx="34" fill="#0B1A2E" stroke="#14B8A6" stroke-width="2"/>
+    <path d="M949 379C949 353 971 331 997 331C1023 331 1045 353 1045 379C1045 421 997 456 997 456C997 456 949 421 949 379Z" fill="url(#heartOuter)"/>
+    <path d="M965 378C965 361 979 347 997 347C1015 347 1029 361 1029 378C1029 406 997 432 997 432C997 432 965 406 965 378Z" fill="#F43F5E"/>
+    <rect x="989" y="363" width="16" height="41" rx="8" fill="#FFF1F2"/>
+    <rect x="977" y="375" width="41" height="16" rx="8" fill="#FFF1F2"/>
+    <text x="935" y="467" fill="#EDFFFC" font-family="Arial, sans-serif" font-size="32" font-weight="700">Stories</text>
+    <text x="932" y="500" fill="#99F6E4" font-family="Arial, sans-serif" font-size="18">human journeys</text>
+  </g>
+
+  <g opacity="0.96">
+    <path d="M305 407H388" stroke="url(#leftLink)" stroke-width="8" stroke-linecap="round"/>
+    <path d="M813 407H896" stroke="url(#rightLink)" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="388" cy="407" r="8" fill="#60A5FA"/>
+    <circle cx="813" cy="407" r="8" fill="#5EEAD4"/>
+  </g>
+
+  <g>
+    <rect x="355" y="94" width="490" height="62" rx="31" fill="#0B1A2E" stroke="#1B3E70"/>
+    <text x="600" y="123" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24" font-weight="700">Technology meets chronic care storytelling</text>
+  </g>
+
+  <g>
+    <rect x="387" y="754" width="426" height="90" rx="28" fill="#0C1A2E" stroke="#1D4276"/>
+    <text x="600" y="796" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="36" font-weight="700">Immersive Medical Experience</text>
+    <text x="600" y="823" text-anchor="middle" fill="#93C5FD" font-family="Arial, sans-serif" font-size="18">clear, modern, and unique exhibition visual</text>
+  </g>
+
+  <defs>
+    <radialGradient id="backgroundGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 450) rotate(90) scale(640 800)">
+      <stop stop-color="#0E1B31"/>
+      <stop offset="1" stop-color="#050B14"/>
+    </radialGradient>
+    <radialGradient id="leftGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(218 160) rotate(90) scale(170)">
+      <stop stop-color="#2563EB" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="rightGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(987 195) rotate(90) scale(190)">
+      <stop stop-color="#14B8A6" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="floorGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(602 794) rotate(90) scale(122 320)">
+      <stop stop-color="#1D4ED8" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#1D4ED8" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="panelShadow" x="233" y="122" width="734" height="654" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="8"/>
+      <feGaussianBlur stdDeviation="20"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.0117647 0 0 0 0 0.0392157 0 0 0 0 0.109804 0 0 0 0.45 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_2"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_2" result="shape"/>
+    </filter>
+    <filter id="softShadow" x="326" y="210" width="548" height="560" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="10"/>
+      <feGaussianBlur stdDeviation="18"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.0196078 0 0 0 0 0.0666667 0 0 0 0 0.168627 0 0 0 0.35 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_2"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_2" result="shape"/>
+    </filter>
+    <linearGradient id="panelStroke" x1="273" y1="154" x2="927" y2="728" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+    <radialGradient id="panelInner" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 442) rotate(90) scale(288 358)">
+      <stop stop-color="#13294C"/>
+      <stop offset="1" stop-color="#08111F"/>
+    </radialGradient>
+    <linearGradient id="headsetShell" x1="417" y1="257" x2="784" y2="617" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="0.52" stop-color="#15284B"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+    <linearGradient id="visorLight" x1="526" y1="350.5" x2="674" y2="350.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#E0F2FE"/>
+      <stop offset="1" stop-color="#5EEAD4"/>
+    </linearGradient>
+    <linearGradient id="standGradient" x1="600" y1="458" x2="600" y2="617" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E3A67"/>
+      <stop offset="1" stop-color="#0A1323"/>
+    </linearGradient>
+    <radialGradient id="heartOuter" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(970 443) rotate(90) scale(81)">
+      <stop stop-color="#FB7185"/>
+      <stop offset="1" stop-color="#E11D48"/>
+    </radialGradient>
+    <linearGradient id="leftLink" x1="305" y1="407" x2="388" y2="407" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <linearGradient id="rightLink" x1="813" y1="407" x2="896" y2="407" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/>
+      <stop offset="1" stop-color="#5EEAD4" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="topLine" x1="349" y1="257" x2="850" y2="257" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#60A5FA" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bottomLine" x1="349" y1="627" x2="850" y2="627" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#5EEAD4" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+</svg>
